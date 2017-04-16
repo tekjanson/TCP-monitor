@@ -23,7 +23,7 @@ using System.Windows.Forms;
 *
 * CHANGES :
 * 
-* VERSION 1.00.00 
+* VERSION 1.00.01 
 *
 *H*/
 
